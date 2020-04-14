@@ -4,7 +4,6 @@
     <list default="true" id="06524d70-a1b4-49be-aa18-745c3b59a6d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/post_youdao.py" beforeDir="false" afterPath="$PROJECT_DIR$/post_youdao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_post_youdao.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_post_youdao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,22 +145,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="644" y="51" key="#com.intellij.ide.actionMacro.EditMacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1584687739376" />
-    <state width="1515" height="161" key="GridCell.Tab.0.bottom" timestamp="1586762838450">
+    <state width="999" height="151" key="GridCell.Tab.0.bottom" timestamp="1586828447363">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586762838450" />
-    <state width="1515" height="161" key="GridCell.Tab.0.center" timestamp="1586762838450">
+    <state width="999" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586828447363" />
+    <state width="999" height="151" key="GridCell.Tab.0.center" timestamp="1586828447363">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586762838450" />
-    <state width="1515" height="161" key="GridCell.Tab.0.left" timestamp="1586762838450">
+    <state width="999" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586828447363" />
+    <state width="999" height="151" key="GridCell.Tab.0.left" timestamp="1586828447363">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586762838450" />
-    <state width="1515" height="161" key="GridCell.Tab.0.right" timestamp="1586762838450">
+    <state width="999" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586828447363" />
+    <state width="999" height="151" key="GridCell.Tab.0.right" timestamp="1586828447363">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586762838450" />
+    <state width="999" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586828447363" />
     <state width="994" height="242" key="GridCell.Tab.1.bottom" timestamp="1583478147044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -178,14 +177,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="994" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583478147044" />
-    <state x="375" y="30" key="SettingsEditor" timestamp="1585614330430">
+    <state x="375" y="30" key="SettingsEditor" timestamp="1586827619214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="375" y="30" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585614330430" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586755885586">
+    <state x="375" y="30" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586827619214" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586823876544">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586755885586" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586823876544" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
